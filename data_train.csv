@@ -1,0 +1,98 @@
+text,label,category,length,text_clean,tokens,num_tokens,importance_scores,key_word_labels
+"Movie Review Sample Text
+The movie was surprisingly engaging, with strong character development and a compelling storyline.
+Although the pacing was slow in the beginning, the emotional payoff in the final act made it worthwhile.
+Fans of drama and mystery will likely enjoy the film.",0,Movie Review,45,movie review sample text the movie was surprisingly engaging with strong character development and a compelling storyline although the pacing was slow in the beginning the emotional payoff in the final act made it worthwhile fans of drama and mystery will likely enjoy the film,"['movie', 'review', 'sample', 'text', 'the', 'movie', 'was', 'surprisingly', 'engaging', 'with', 'strong', 'character', 'development', 'and', 'a', 'compelling', 'storyline', 'although', 'the', 'pacing', 'was', 'slow', 'in', 'the', 'beginning', 'the', 'emotional', 'payoff', 'in', 'the', 'final', 'act', 'made', 'it', 'worthwhile', 'fans', 'of', 'drama', 'and', 'mystery', 'will', 'likely', 'enjoy', 'the', 'film']",45,"[0.05541138 0.03307812 0.04234485 0.05844676 0.21161184 0.05541138
+ 0.05137206 0.02568603 0.02568603 0.0548312  0.04955243 0.02568603
+ 0.02568603 0.09803132 0.         0.02568603 0.02568603 0.02568603
+ 0.21161184 0.02568603 0.05137206 0.02568603 0.09371339 0.21161184
+ 0.02568603 0.21161184 0.02568603 0.02568603 0.09371339 0.21161184
+ 0.02568603 0.02568603 0.02568603 0.03307812 0.02568603 0.02568603
+ 0.05085186 0.02568603 0.09803132 0.02568603 0.02568603 0.02568603
+ 0.02568603 0.21161184 0.03307812]","[1 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 1 0]"
+"Additional AI Paragraph
+As language models grow in size, the cost of processing every token becomes significantly higher. 
+By prioritizing key words and trimming redundant context, adaptive attention mechanisms strive to provide a smarter balance between speed and accuracy. 
+This is especially important in real-time applications such as mobile assistants, automated summarization tools, and large-scale document classification. 
+The goal is to build models that perform more like the human brain: fast, selective, and efficient without sacrificing comprehension.",2,AI/Tech,77,additional ai paragraph as language models grow in size the cost of processing every token becomes significantly higher by prioritizing key words and trimming redundant context adaptive attention mechanisms strive to provide a smarter balance between speed and accuracy this is especially important in realtime applications such as mobile assistants automated summarization tools and largescale document classification the goal is to build models that perform more like the human brain fast selective and efficient without sacrificing comprehension,"['additional', 'ai', 'paragraph', 'as', 'language', 'models', 'grow', 'in', 'size', 'the', 'cost', 'of', 'processing', 'every', 'token', 'becomes', 'significantly', 'higher', 'by', 'prioritizing', 'key', 'words', 'and', 'trimming', 'redundant', 'context', 'adaptive', 'attention', 'mechanisms', 'strive', 'to', 'provide', 'a', 'smarter', 'balance', 'between', 'speed', 'and', 'accuracy', 'this', 'is', 'especially', 'important', 'in', 'realtime', 'applications', 'such', 'as', 'mobile', 'assistants', 'automated', 'summarization', 'tools', 'and', 'largescale', 'document', 'classification', 'the', 'goal', 'is', 'to', 'build', 'models', 'that', 'perform', 'more', 'like', 'the', 'human', 'brain', 'fast', 'selective', 'and', 'efficient', 'without', 'sacrificing', 'comprehension']",77,"[0.03219145 0.03272233 0.03219145 0.05110465 0.01398195 0.05516575
+ 0.01398195 0.09371339 0.01398195 0.21161184 0.01398195 0.05085186
+ 0.02226585 0.01398195 0.01398195 0.01398195 0.01398195 0.01398195
+ 0.03580624 0.0241673  0.0241673  0.02226585 0.09803132 0.01398195
+ 0.01398195 0.01398195 0.02226585 0.04489784 0.03580624 0.01398195
+ 0.06847638 0.01398195 0.         0.01398195 0.01398195 0.01398195
+ 0.02226585 0.09803132 0.01398195 0.06541632 0.03597668 0.02806199
+ 0.01398195 0.09371339 0.01398195 0.01398195 0.01398195 0.05110465
+ 0.01398195 0.01398195 0.01398195 0.01398195 0.01398195 0.09803132
+ 0.04010352 0.01398195 0.01398195 0.21161184 0.01398195 0.03597668
+ 0.06847638 0.01398195 0.05516575 0.04783545 0.01398195 0.05751189
+ 0.01398195 0.21161184 0.01398195 0.01398195 0.01398195 0.04489784
+ 0.09803132 0.03580624 0.0241673  0.01398195 0.01398195]","[0 0 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0
+ 1 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 1 1 0
+ 0 0 0]"
+"General Text for Testing
+Artificial intelligence systems are rapidly evolving, allowing researchers to explore brain-inspired mechanisms.
+Selective attention models help reduce computation costs by focusing only on relevant information.
+This makes large-scale NLP tasks faster and more efficient while maintaining strong performance.",2,AI/Tech,42,general text for testing artificial intelligence systems are rapidly evolving allowing researchers to explore braininspired mechanisms selective attention models help reduce computation costs by focusing only on relevant information this makes largescale nlp tasks faster and more efficient while maintaining strong performance,"['general', 'text', 'for', 'testing', 'artificial', 'intelligence', 'systems', 'are', 'rapidly', 'evolving', 'allowing', 'researchers', 'to', 'explore', 'braininspired', 'mechanisms', 'selective', 'attention', 'models', 'help', 'reduce', 'computation', 'costs', 'by', 'focusing', 'only', 'on', 'relevant', 'information', 'this', 'makes', 'largescale', 'nlp', 'tasks', 'faster', 'and', 'more', 'efficient', 'while', 'maintaining', 'strong', 'performance']",42,"[0.02937225 0.05844676 0.03828654 0.02937225 0.02937225 0.02937225
+ 0.04580861 0.04894116 0.02937225 0.02937225 0.02937225 0.03982873
+ 0.06847638 0.02937225 0.02937225 0.03580624 0.04489784 0.04489784
+ 0.05516575 0.02937225 0.02937225 0.02937225 0.02937225 0.03580624
+ 0.02937225 0.03982873 0.05633839 0.02937225 0.02937225 0.06541632
+ 0.02937225 0.04010352 0.02937225 0.02937225 0.02937225 0.09803132
+ 0.05751189 0.03580624 0.04702804 0.02937225 0.04955243 0.02937225]","[0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1
+ 0 1 0 1 0]"
+"Additional Movie Review Paragraph
+The cinematography stood out with its thoughtful use of lighting and color to emphasize mood shifts in the plot. 
+The soundtrack, while understated, complemented the narrative without overpowering key scenes. 
+In comparison to other films in the genre, this one feels more character-driven, prioritizing internal conflict over external action. 
+While not perfect, it is a film that rewards patient viewers and offers plenty to reflect on afterward.",0,Movie Review,71,additional movie review paragraph the cinematography stood out with its thoughtful use of lighting and color to emphasize mood shifts in the plot the soundtrack while understated complemented the narrative without overpowering key scenes in comparison to other films in the genre this one feels more characterdriven prioritizing internal conflict over external action while not perfect it is a film that rewards patient viewers and offers plenty to reflect on afterward,"['additional', 'movie', 'review', 'paragraph', 'the', 'cinematography', 'stood', 'out', 'with', 'its', 'thoughtful', 'use', 'of', 'lighting', 'and', 'color', 'to', 'emphasize', 'mood', 'shifts', 'in', 'the', 'plot', 'the', 'soundtrack', 'while', 'understated', 'complemented', 'the', 'narrative', 'without', 'overpowering', 'key', 'scenes', 'in', 'comparison', 'to', 'other', 'films', 'in', 'the', 'genre', 'this', 'one', 'feels', 'more', 'characterdriven', 'prioritizing', 'internal', 'conflict', 'over', 'external', 'action', 'while', 'not', 'perfect', 'it', 'is', 'a', 'film', 'that', 'rewards', 'patient', 'viewers', 'and', 'offers', 'plenty', 'to', 'reflect', 'on', 'afterward']",71,"[0.03219145 0.05541138 0.03307812 0.03219145 0.21161184 0.01463141
+ 0.01463141 0.01463141 0.0548312  0.01463141 0.01463141 0.01463141
+ 0.05085186 0.01463141 0.09803132 0.01463141 0.06847638 0.01463141
+ 0.01463141 0.01463141 0.09371339 0.21161184 0.01463141 0.21161184
+ 0.01463141 0.04702804 0.01463141 0.01463141 0.21161184 0.01463141
+ 0.0241673  0.01463141 0.0241673  0.02180213 0.09371339 0.01463141
+ 0.06847638 0.01463141 0.02180213 0.09371339 0.21161184 0.01463141
+ 0.06541632 0.01463141 0.01463141 0.05751189 0.01463141 0.0241673
+ 0.01463141 0.01463141 0.02337912 0.01463141 0.01463141 0.04702804
+ 0.0228144  0.01463141 0.03307812 0.03597668 0.         0.03307812
+ 0.04783545 0.01463141 0.01463141 0.01463141 0.09803132 0.01463141
+ 0.01463141 0.06847638 0.01463141 0.05633839 0.01463141]","[0 1 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 1 0 1
+ 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0]"
+"Movie Review Sample Text
+The movie was surprisingly engaging, with strong character development and a compelling storyline that kept me invested throughout the entire runtime. 
+The performances were emotionally grounded, especially from the lead actors, who brought depth and nuance to their roles. 
+Although the pacing was slow in the beginning, the emotional payoff in the final act made the overall experience worthwhile. 
+Some scenes felt slightly predictable, but the film’s strong dialogue and visual direction compensated for those moments. 
+Fans of drama and mystery will likely enjoy the film, as it blends both genres with a subtle touch of psychological tension.",0,Movie Review,102,movie review sample text the movie was surprisingly engaging with strong character development and a compelling storyline that kept me invested throughout the entire runtime the performances were emotionally grounded especially from the lead actors who brought depth and nuance to their roles although the pacing was slow in the beginning the emotional payoff in the final act made the overall experience worthwhile some scenes felt slightly predictable but the films strong dialogue and visual direction compensated for those moments fans of drama and mystery will likely enjoy the film as it blends both genres with a subtle touch of psychological tension,"['movie', 'review', 'sample', 'text', 'the', 'movie', 'was', 'surprisingly', 'engaging', 'with', 'strong', 'character', 'development', 'and', 'a', 'compelling', 'storyline', 'that', 'kept', 'me', 'invested', 'throughout', 'the', 'entire', 'runtime', 'the', 'performances', 'were', 'emotionally', 'grounded', 'especially', 'from', 'the', 'lead', 'actors', 'who', 'brought', 'depth', 'and', 'nuance', 'to', 'their', 'roles', 'although', 'the', 'pacing', 'was', 'slow', 'in', 'the', 'beginning', 'the', 'emotional', 'payoff', 'in', 'the', 'final', 'act', 'made', 'the', 'overall', 'experience', 'worthwhile', 'some', 'scenes', 'felt', 'slightly', 'predictable', 'but', 'the', 'films', 'strong', 'dialogue', 'and', 'visual', 'direction', 'compensated', 'for', 'those', 'moments', 'fans', 'of', 'drama', 'and', 'mystery', 'will', 'likely', 'enjoy', 'the', 'film', 'as', 'it', 'blends', 'both', 'genres', 'with', 'a', 'subtle', 'touch', 'of', 'psychological', 'tension']",102,"[0.05541138 0.03307812 0.04234485 0.05844676 0.21161184 0.05541138
+ 0.05137206 0.02568603 0.02568603 0.0548312  0.04955243 0.02568603
+ 0.02568603 0.09803132 0.         0.02568603 0.02568603 0.04783545
+ 0.01118166 0.01118166 0.01118166 0.01118166 0.21161184 0.01118166
+ 0.01118166 0.21161184 0.01118166 0.01118166 0.01118166 0.01118166
+ 0.02806199 0.01118166 0.21161184 0.01118166 0.01118166 0.01118166
+ 0.01118166 0.01990069 0.09803132 0.01118166 0.06847638 0.01118166
+ 0.01118166 0.02568603 0.21161184 0.02568603 0.05137206 0.02568603
+ 0.09371339 0.21161184 0.02568603 0.21161184 0.02568603 0.02568603
+ 0.09371339 0.21161184 0.02568603 0.02568603 0.02568603 0.21161184
+ 0.01118166 0.02230108 0.02568603 0.01118166 0.02180213 0.01118166
+ 0.01118166 0.01118166 0.02848175 0.21161184 0.02180213 0.04955243
+ 0.01118166 0.09803132 0.01118166 0.01118166 0.01118166 0.03828654
+ 0.01118166 0.01118166 0.02568603 0.05085186 0.02568603 0.09803132
+ 0.02568603 0.02568603 0.02568603 0.02568603 0.21161184 0.03307812
+ 0.05110465 0.03307812 0.01118166 0.01118166 0.01118166 0.0548312
+ 0.         0.01118166 0.01118166 0.05085186 0.01118166 0.01118166]","[1 0 0 1 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0
+ 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+ 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0]"
+"Additional News Paragraph
+Economic analysts predict that the renewable energy sector may experience significant growth as a result of this discovery. 
+They also warn that early adoption may be costly, but long-term savings and environmental benefits are expected to outweigh initial expenses. 
+Citizens in high-population cities may see improved air quality as renewable systems replace traditional power plants.",1,News,58,additional news paragraph economic analysts predict that the renewable energy sector may experience significant growth as a result of this discovery they also warn that early adoption may be costly but longterm savings and environmental benefits are expected to outweigh initial expenses citizens in highpopulation cities may see improved air quality as renewable systems replace traditional power plants,"['additional', 'news', 'paragraph', 'economic', 'analysts', 'predict', 'that', 'the', 'renewable', 'energy', 'sector', 'may', 'experience', 'significant', 'growth', 'as', 'a', 'result', 'of', 'this', 'discovery', 'they', 'also', 'warn', 'that', 'early', 'adoption', 'may', 'be', 'costly', 'but', 'longterm', 'savings', 'and', 'environmental', 'benefits', 'are', 'expected', 'to', 'outweigh', 'initial', 'expenses', 'citizens', 'in', 'highpopulation', 'cities', 'may', 'see', 'improved', 'air', 'quality', 'as', 'renewable', 'systems', 'replace', 'traditional', 'power', 'plants']",58,"[0.03219145 0.03677099 0.03219145 0.01522215 0.01522215 0.01522215
+ 0.04783545 0.21161184 0.04794967 0.07194591 0.01522215 0.04566646
+ 0.02230108 0.01522215 0.01522215 0.05110465 0.         0.01522215
+ 0.05085186 0.06541632 0.01522215 0.01522215 0.02331335 0.01522215
+ 0.04783545 0.01522215 0.01522215 0.04566646 0.01522215 0.01522215
+ 0.02848175 0.01522215 0.01522215 0.09803132 0.01522215 0.01522215
+ 0.04894116 0.01522215 0.06847638 0.01522215 0.01522215 0.01522215
+ 0.01522215 0.09371339 0.01522215 0.01522215 0.04566646 0.01522215
+ 0.01522215 0.01522215 0.01522215 0.05110465 0.04794967 0.04580861
+ 0.01522215 0.02331335 0.03677099 0.01522215]","[0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1
+ 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0]"

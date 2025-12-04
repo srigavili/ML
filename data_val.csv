@@ -1,0 +1,24 @@
+text,label,category,length,text_clean,tokens,num_tokens,importance_scores,key_word_labels
+"News Sample Text
+Scientists have announced a major breakthrough in renewable energy technology, revealing a new hybrid solar-battery system. 
+This system can store solar power far more efficiently, potentially reducing global dependence on fossil fuels over the next decade. 
+The innovation combines advanced chemical engineering with AI-driven optimization to automatically adjust energy storage levels based on demand. 
+Experts say this advancement could accelerate the transition toward sustainable energy solutions, especially in regions with inconsistent sunlight. 
+Governments and private companies are already expressing interest in adopting this technology for large-scale infrastructure projects.",1,News,91,news sample text scientists have announced a major breakthrough in renewable energy technology revealing a new hybrid solarbattery system this system can store solar power far more efficiently potentially reducing global dependence on fossil fuels over the next decade the innovation combines advanced chemical engineering with aidriven optimization to automatically adjust energy storage levels based on demand experts say this advancement could accelerate the transition toward sustainable energy solutions especially in regions with inconsistent sunlight governments and private companies are already expressing interest in adopting this technology for largescale infrastructure projects,"['news', 'sample', 'text', 'scientists', 'have', 'announced', 'a', 'major', 'breakthrough', 'in', 'renewable', 'energy', 'technology', 'revealing', 'a', 'new', 'hybrid', 'solarbattery', 'system', 'this', 'system', 'can', 'store', 'solar', 'power', 'far', 'more', 'efficiently', 'potentially', 'reducing', 'global', 'dependence', 'on', 'fossil', 'fuels', 'over', 'the', 'next', 'decade', 'the', 'innovation', 'combines', 'advanced', 'chemical', 'engineering', 'with', 'aidriven', 'optimization', 'to', 'automatically', 'adjust', 'energy', 'storage', 'levels', 'based', 'on', 'demand', 'experts', 'say', 'this', 'advancement', 'could', 'accelerate', 'the', 'transition', 'toward', 'sustainable', 'energy', 'solutions', 'especially', 'in', 'regions', 'with', 'inconsistent', 'sunlight', 'governments', 'and', 'private', 'companies', 'are', 'already', 'expressing', 'interest', 'in', 'adopting', 'this', 'technology', 'for', 'largescale', 'infrastructure', 'projects']",91,"[0.03677099 0.04234485 0.05844676 0.02943434 0.02943434 0.02943434
+ 0.         0.02943434 0.02943434 0.09371339 0.04794967 0.07194591
+ 0.04045554 0.01304877 0.         0.03468391 0.01304877 0.01304877
+ 0.04045554 0.06541632 0.04045554 0.02943434 0.02943434 0.02943434
+ 0.03677099 0.02943434 0.05751189 0.02943434 0.02943434 0.02943434
+ 0.02943434 0.02943434 0.05633839 0.02943434 0.02943434 0.02337912
+ 0.21161184 0.01304877 0.01304877 0.21161184 0.01304877 0.01304877
+ 0.01304877 0.01304877 0.01304877 0.0548312  0.01304877 0.01304877
+ 0.06847638 0.01304877 0.01304877 0.07194591 0.01304877 0.01304877
+ 0.01304877 0.05633839 0.01304877 0.02943434 0.02943434 0.06541632
+ 0.02943434 0.02943434 0.02943434 0.21161184 0.02943434 0.03468391
+ 0.02943434 0.07194591 0.02943434 0.02806199 0.09371339 0.01304877
+ 0.0548312  0.01304877 0.01304877 0.01304877 0.09803132 0.01304877
+ 0.01304877 0.04894116 0.01304877 0.01304877 0.01304877 0.09371339
+ 0.01304877 0.06541632 0.04045554 0.03828654 0.04010352 0.01304877
+ 0.01304877]","[0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1
+ 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0
+ 0 0 1 0 0 1 0 0 0 1 0 1 1 0 0 0 0]"

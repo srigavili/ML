@@ -1,0 +1,35 @@
+text,label,category,length,text_clean,tokens,num_tokens,importance_scores,key_word_labels
+"General Text for AI Testing
+Artificial intelligence systems are rapidly evolving, allowing researchers to explore brain-inspired mechanisms in greater depth. 
+Selective attention models help reduce computation costs by focusing only on relevant information, mimicking how humans naturally process large amounts of text. 
+This selective process makes large-scale NLP tasks faster and more efficient while maintaining strong performance across benchmarks. 
+Researchers are now comparing traditional attention models with adaptive, budget-based systems that dynamically determine how many words deserve focus. 
+These developments not only improve processing speed but also open new paths toward more energy-efficient AI technologies.",1,News,95,general text for ai testing artificial intelligence systems are rapidly evolving allowing researchers to explore braininspired mechanisms in greater depth selective attention models help reduce computation costs by focusing only on relevant information mimicking how humans naturally process large amounts of text this selective process makes largescale nlp tasks faster and more efficient while maintaining strong performance across benchmarks researchers are now comparing traditional attention models with adaptive budgetbased systems that dynamically determine how many words deserve focus these developments not only improve processing speed but also open new paths toward more energyefficient ai technologies,"['general', 'text', 'for', 'ai', 'testing', 'artificial', 'intelligence', 'systems', 'are', 'rapidly', 'evolving', 'allowing', 'researchers', 'to', 'explore', 'braininspired', 'mechanisms', 'in', 'greater', 'depth', 'selective', 'attention', 'models', 'help', 'reduce', 'computation', 'costs', 'by', 'focusing', 'only', 'on', 'relevant', 'information', 'mimicking', 'how', 'humans', 'naturally', 'process', 'large', 'amounts', 'of', 'text', 'this', 'selective', 'process', 'makes', 'largescale', 'nlp', 'tasks', 'faster', 'and', 'more', 'efficient', 'while', 'maintaining', 'strong', 'performance', 'across', 'benchmarks', 'researchers', 'are', 'now', 'comparing', 'traditional', 'attention', 'models', 'with', 'adaptive', 'budgetbased', 'systems', 'that', 'dynamically', 'determine', 'how', 'many', 'words', 'deserve', 'focus', 'these', 'developments', 'not', 'only', 'improve', 'processing', 'speed', 'but', 'also', 'open', 'new', 'paths', 'toward', 'more', 'energyefficient', 'ai', 'technologies']",95,"[0.02937225 0.05844676 0.03828654 0.03272233 0.02937225 0.02937225
+ 0.02937225 0.04580861 0.04894116 0.02937225 0.02937225 0.02937225
+ 0.03982873 0.06847638 0.02937225 0.02937225 0.03580624 0.09371339
+ 0.01238016 0.01990069 0.04489784 0.04489784 0.05516575 0.02937225
+ 0.02937225 0.02937225 0.02937225 0.03580624 0.02937225 0.03982873
+ 0.05633839 0.02937225 0.02937225 0.01238016 0.02476031 0.01238016
+ 0.01238016 0.02476031 0.01238016 0.01238016 0.05085186 0.05844676
+ 0.06541632 0.04489784 0.02476031 0.02937225 0.04010352 0.02937225
+ 0.02937225 0.02937225 0.09803132 0.05751189 0.03580624 0.04702804
+ 0.02937225 0.04955243 0.02937225 0.01238016 0.01238016 0.03982873
+ 0.04894116 0.01238016 0.01238016 0.02331335 0.04489784 0.05516575
+ 0.0548312  0.02226585 0.01238016 0.04580861 0.04783545 0.01238016
+ 0.01238016 0.02476031 0.01238016 0.02226585 0.01238016 0.01238016
+ 0.01238016 0.01238016 0.0228144  0.03982873 0.01238016 0.02226585
+ 0.02226585 0.02848175 0.02331335 0.01238016 0.03468391 0.01238016
+ 0.03468391 0.05751189 0.01238016 0.03272233 0.01238016]","[0 1 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+ 0 0 0 1 1 1 1 0 0 1 0 0 0 1 1 0 1 0 1 0 0 0 1 1 0 0 0 1 1 1 0 0 1 1 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0]"
+"News Sample Text
+Scientists have announced a major breakthrough in renewable energy technology.
+The new system can store solar power far more efficiently, potentially reducing global dependence on fossil fuels.
+Experts say this advancement could accelerate the transition toward sustainable energy solutions.",1,News,42,news sample text scientists have announced a major breakthrough in renewable energy technology the new system can store solar power far more efficiently potentially reducing global dependence on fossil fuels experts say this advancement could accelerate the transition toward sustainable energy solutions,"['news', 'sample', 'text', 'scientists', 'have', 'announced', 'a', 'major', 'breakthrough', 'in', 'renewable', 'energy', 'technology', 'the', 'new', 'system', 'can', 'store', 'solar', 'power', 'far', 'more', 'efficiently', 'potentially', 'reducing', 'global', 'dependence', 'on', 'fossil', 'fuels', 'experts', 'say', 'this', 'advancement', 'could', 'accelerate', 'the', 'transition', 'toward', 'sustainable', 'energy', 'solutions']",42,"[0.03677099 0.04234485 0.05844676 0.02943434 0.02943434 0.02943434
+ 0.         0.02943434 0.02943434 0.09371339 0.04794967 0.07194591
+ 0.04045554 0.21161184 0.03468391 0.04045554 0.02943434 0.02943434
+ 0.02943434 0.03677099 0.02943434 0.05751189 0.02943434 0.02943434
+ 0.02943434 0.02943434 0.02943434 0.05633839 0.02943434 0.02943434
+ 0.02943434 0.02943434 0.06541632 0.02943434 0.02943434 0.02943434
+ 0.21161184 0.02943434 0.03468391 0.02943434 0.07194591 0.02943434]","[0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1
+ 0 0 0 1 0]"
